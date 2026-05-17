@@ -127,7 +127,7 @@ Este proyecto se distribuye bajo licencia [MIT](LICENSE).
 
 ## Autores
 
-- [Nombre Apellido 1] — [correo@institución]
-- [Nombre Apellido 2] — [correo@institución]
+- Sebastian Garcia Torres — [sfgarcia@usal.es]
+- [Sebastian Cuevas] — [cuevas@usal.es]
 
 Trabajo realizado en el marco del Máster Universitario en Ciencia de Datos aplicada a las Ciencias Sociales, Universidad de Salamanca, curso 2025-2026.
