@@ -7,7 +7,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 Trabajo final para la asignatura **Aplicaciones Avanzadas en Inteligencia Artificial (AAIA)** del Máster Universitario en Ciencia de Datos aplicada a las Ciencias Sociales.
-
+Los datos fueron descargados de kaggle https://www.kaggle.com/datasets/hussnainmamoon1/hormuz-shipping-crisis-2026-daily-dataset?resource=download "Hussnain Mamoon · Updated 12 days ago"
 El proyecto construye un dashboard interactivo de una sola página para analizar la crisis del estrecho de Ormuz de 2026, integrando tráfico marítimo, flujos energéticos, precios del petróleo, riesgo geopolítico, decisiones de compañías navieras, banderas autorizadas por Irán y rutas alternativas por el Cabo de Buena Esperanza. El análisis combina machine learning clásico, deep learning para predicción de riesgo y procesamiento de lenguaje natural sobre noticias geopolíticas.
 
 ## Características principales
